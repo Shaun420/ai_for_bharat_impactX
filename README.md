@@ -2,7 +2,7 @@
 
 The **AI Learning & Developer Productivity Assistant** is a robust, web-based conversational system designed to help developers learn concepts, debug code, and explore technical topics. Unlike standard chatbots, this system features a strictly typed three-tier architecture, context-aware memory management, and is verified through rigorous **Property-Based Testing** to ensure correctness and reliability.
 
-## 📋 Table of Contents
+## Table of Contents
 
 * [Overview](#overview)
 * [Architecture](#architecture)
